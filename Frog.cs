@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Object_Oriented_Assignment___leah_barzel
 {
-    public class Frog : Animal, ILand, IWater, IFrog
+    public class Frog : Animal, ILand, IWater
     {
         private int numberOfLegs = 4;
         public Frog() { }

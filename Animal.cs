@@ -15,9 +15,13 @@ namespace Object_Oriented_Assignment___leah_barzel
         public const int MOOD_HAPPY =  1 ;
         
         public const int MOOD_SCARE = 2 ;
-        //I changed it from protected to public so that it would be possible
-        //to access the object in the main menu
-        public int mood { get; set; }
+        
+        protected int mood;
+
+        public int GetMood()
+        {
+            return mood;
+        }
 
         public Animal()
         {

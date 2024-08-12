@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
 
-            Animal dog = new Dog(true, true, 1);
-            Animal cat = new Cat(true, true,2);
-            Animal frog = new Frog(false, false,2);
+            Animal dog = new Dog(true, true ,Animal.MOOD_HAPPY);
+            Animal cat = new Cat(true, true,Animal.MOOD_SCARE);
+            Animal frog = new Frog(false, false ,Animal.MOOD_HAPPY);
 
             Animal[] animals = { dog, cat, frog };
 
@@ -17,11 +17,9 @@
                 Console.WriteLine("Is mammal: " + animal.IsMamals());
                 Console.WriteLine("Is carnivorous: " + animal.IsCarnivorous());
                 Console.WriteLine("Number of legs: " + ((ILand)animal).GetNumberOfLegs());
-                if (animal.GetType().Name != "Frog")
-                {
-                    Console.Write("greet people by: "); animal.SayHello();
-                }
-                Console.Write("Say hello becoause it mood: "); animal.SayHello(animal.mood);
+                animal.SayHello();
+                Console.Write("Hello according to the mood: ");
+                animal.SayHello(animal.GetMood());
 
                 if (animal is IWater waterAnimal)
                 {
@@ -29,14 +27,14 @@
                     Console.WriteLine("Lays eggs: " + waterAnimal.HasLaysEggs());
                 }
 
-                //Console.WriteLine("Current Mood: " + animal.SayHello());
-                if(animal.GetType().Name != "Frog")
-                    Console.Write("greet people by: "); animal.SayHello();
-                
-                animal.SayHello(animal.mood);
-                Console.WriteLine( dog.mood);
                 Console.WriteLine();
             }
+            static ConsoleColor GetRandomConsoleColor()
+            {
+                var consoleColors = Enum.GetValues(typeof(ConsoleColor));
+                return (ConsoleColor)consoleColors.GetValue(new Random().Next(consoleColors.Length));
+            }
+            
         }
     }
 }
