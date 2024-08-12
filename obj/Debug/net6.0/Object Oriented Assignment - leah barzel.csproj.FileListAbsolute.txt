@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\Object Oriented Assignment - leah barzel.exe
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\Object Oriented Assignment - leah barzel.deps.json
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\Object Oriented Assignment - leah barzel.runtimeconfig.json
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\Object Oriented Assignment - leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\Object Oriented Assignment - leah barzel.pdb
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.AssemblyInfo.cs
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\refint\Object Oriented Assignment - leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.pdb
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\Object Oriented Assignment - leah barzel.genruntimeconfig.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\ref\Object Oriented Assignment - leah barzel.dll
