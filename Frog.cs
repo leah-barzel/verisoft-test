@@ -4,18 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Object_Oriented_Assignment___leah_barzel
+namespace leah_barzel
 {
     public class Frog : Animal, ILand, IWater
     {
         private int numberOfLegs = 4;
         public Frog() { }
-        public Frog(bool mamals, bool carnivorous, int mood) : base(mamals, carnivorous, mood)
-        {
-            this.mamals = false;
-            this.carnivorous = false;
-            this.mood = mood;
-        }
+        public Frog(bool mamals, bool carnivorous, int mood) : base(mamals, carnivorous, mood) { }
         public override void SayHello(int mood)
         {
             if (mood == MOOD_HAPPY)
@@ -23,7 +18,7 @@ namespace Object_Oriented_Assignment___leah_barzel
             else if (mood == MOOD_SCARE)
                 Console.WriteLine("plop into the water");
         }
-        
+
         public int GetNumberOfLegs()
         {
             return numberOfLegs;
@@ -37,6 +32,6 @@ namespace Object_Oriented_Assignment___leah_barzel
             return true;
         }
 
-       
+
     }
 }

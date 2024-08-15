@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\leah barzel.exe
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\leah barzel.deps.json
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\leah barzel.runtimeconfig.json
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\bin\Debug\net6.0\leah barzel.pdb
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.AssemblyInfo.cs
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\refint\leah barzel.dll
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.pdb
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\leah barzel.genruntimeconfig.cache
+C:\Users\user1\Desktop\full stack\אוטומציה\Object Oriented Assignment - leah barzel\obj\Debug\net6.0\ref\leah barzel.dll

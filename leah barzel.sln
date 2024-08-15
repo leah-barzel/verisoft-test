@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object Oriented Assignment - leah barzel", "Object Oriented Assignment - leah barzel.csproj", "{66F7DA7B-79C4-47E8-8BA5-5DA36231018C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leah barzel", "leah barzel.csproj", "{66F7DA7B-79C4-47E8-8BA5-5DA36231018C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACF22A2A-14EB-4A16-9FEE-62B7FD121D04}"
 EndProject

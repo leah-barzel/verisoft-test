@@ -4,18 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Object_Oriented_Assignment___leah_barzel
+namespace leah_barzel
 {
-    public class Dog : Animal , ILand
+    public class Dog : Animal, ILand
     {
         private int numberOfLegs = 4;
         public Dog() { }
-        public Dog(bool mamals, bool carnivorous, int mood) : base(mamals, carnivorous, mood)
-        {
-            this.mamals = true;
-            this.carnivorous = true;
-            this.mood = mood;
-        }
+        public Dog(bool mamals, bool carnivorous, int mood) : base(mamals, carnivorous, mood) { }
         public override void SayHello()
         {
             Console.WriteLine("wagging the tail");
@@ -27,7 +22,7 @@ namespace Object_Oriented_Assignment___leah_barzel
             else if (mood == MOOD_SCARE)
                 Console.WriteLine("whooping sound");
         }
-        
+
         public int GetNumberOfLegs()
         {
             return numberOfLegs;
